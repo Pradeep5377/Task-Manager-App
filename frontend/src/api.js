@@ -1,4 +1,4 @@
-const API_URL = "https://task-manager-app-twiu.onrender.com/";
+const API_URL = "https://task-manager-app-w2uv.onrender.com";
 
 export const getTasks = async () => {
   const response = await fetch(API_URL);
