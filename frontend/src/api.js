@@ -1,4 +1,4 @@
-const API_URL = "https://task-manager-app-twiu.onrender.com/"; // Update this with your Render backend URL
+const API_URL = "https://task-manager-app-twiu.onrender.com/";
 
 export const getTasks = async () => {
   const response = await fetch(API_URL);
